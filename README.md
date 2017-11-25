@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## al-yanez.github.io
 
 You can use the [editor on GitHub](https://github.com/al-yanez/al-yanez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
